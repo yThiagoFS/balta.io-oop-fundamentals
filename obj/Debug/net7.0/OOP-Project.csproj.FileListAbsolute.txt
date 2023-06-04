@@ -1,0 +1,5 @@
+D:\Projetos\balta\OOP-Project\obj\Debug\net7.0\OOP-Project.csproj.AssemblyReference.cache
+D:\Projetos\balta\OOP-Project\obj\Debug\net7.0\OOP-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\balta\OOP-Project\obj\Debug\net7.0\OOP-Project.AssemblyInfoInputs.cache
+D:\Projetos\balta\OOP-Project\obj\Debug\net7.0\OOP-Project.AssemblyInfo.cs
+D:\Projetos\balta\OOP-Project\obj\Debug\net7.0\OOP-Project.csproj.CoreCompileInputs.cache
